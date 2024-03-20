@@ -1,12 +1,13 @@
-# Energy Efficiency Dataset
+# Energy Efficiency of Buildings: The Foundation of Our Sustainable Future
 
-## Binaların Enerji Verimliliği: Sürdürülebilir Geleceğimizin Temeli
-Günümüzde, çevresel bilincin artmasıyla birlikte enerji verimliliği kavramı, sadece bireysel tüketicilerin değil, aynı zamanda kurumsal ve endüstriyel sektörlerin de odak noktası haline gelmiştir. Özellikle binaların tasarımı ve işletimi sürecinde enerji verimliliğine verilen önem, giderek daha fazla artmaktadır. Çünkü binaların enerji tüketimi, toplam enerji kullanımının önemli bir kısmını oluşturmakta ve bu da doğal kaynakların tükenmesine ve çevresel etkilere yol açmaktadır.
+Today, with the increasing environmental consciousness, the concept of energy efficiency has become the focal point not only for individual consumers but also for corporate and industrial sectors. Especially, the importance given to energy efficiency in the design and operation of buildings is steadily increasing. This is because the energy consumption of buildings constitutes a significant portion of total energy usage, leading to depletion of natural resources and environmental impacts.
 
-Enerji verimliliği, bir binanın ne kadar enerji tükettiği kadar, bu enerjinin ne kadarının etkili bir şekilde kullanıldığıyla da yakından ilgilidir. Geleneksel binalar genellikle enerjiyi israf eden yapılardır; ısıtma, soğutma, aydınlatma gibi sistemlerin verimsiz kullanımı ve izolasyonun yetersiz olması gibi nedenlerle enerji kayıpları yaşanabilir. Bu durum sadece çevresel değil, aynı zamanda ekonomik anlamda da maliyetlerin artmasına neden olabilir.
+Energy efficiency is closely related not only to how much energy a building consumes but also to how effectively that energy is utilized. Traditional buildings are often structures that waste energy; inefficient usage of systems such as heating, cooling, lighting, and inadequate insulation can lead to energy losses. This situation can not only be environmentally detrimental but also lead to increased costs economically.
 
-Bununla birlikte, enerji verimliliği sadece çevresel ve ekonomik boyutlara odaklanmamalıdır; aynı zamanda sosyal boyutları da önemlidir. Daha enerji verimli binalar, iç mekan konforunu artırabilir ve kullanıcıların yaşam kalitesini yükseltebilir. Örneğin, daha iyi izole edilmiş bir ev, kış aylarında daha sıcak ve yaz aylarında daha serin olabilir, bu da konut sahiplerinin konforunu artırır ve enerji faturalarını düşürür.
+However, energy efficiency should not only focus on environmental and economic dimensions; social dimensions are also important. More energy-efficient buildings can enhance indoor comfort and elevate users' quality of life.
 
-Bu noktada, Ecotect tarafından sağlanan 768 binadan oluşan geniş veri seti, enerji verimliliği alanında yapılan çalışmalara büyük bir katkı sağlamaktadır. Bu veri seti, farklı bina tipleri, coğrafi bölgeler ve iklim koşulları gibi çeşitli faktörleri içerir ve bu da enerji verimliliğini etkileyen faktörlerin daha iyi anlaşılmasına olanak tanır. Bu veri seti üzerinde yapılan analizler ve tahminler, gelecekte daha enerji verimli binaların tasarlanması ve mevcut binaların iyileştirilmesi için önemli bir rehber sağlayabilir. Bu da hem çevresel sürdürülebilirliği hem de ekonomik ve sosyal refahı artırabilir.
+At this point, I tackled the issue of a building's energy efficiency by developing an end-to-end data science project using a dataset consisting of 768 buildings provided by Ecotect, obtaining training, validation, and test datasets.
+
+Kaggle link: https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset
 
 ![Enerjeffeci]( https://resmim.net/cdn/2024/03/19/fDZFe3.png)
